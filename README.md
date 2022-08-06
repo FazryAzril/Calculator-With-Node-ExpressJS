@@ -31,6 +31,7 @@ Introduction how to use NODE.JS and Express.JS by creating a simple calculator
 - HTML5
 - Node.js
 - Express.js
+- JavaScript
 
 
 
